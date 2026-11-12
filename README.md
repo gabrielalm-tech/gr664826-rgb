@@ -3,6 +3,7 @@
 Estudante de Tecnologia da Informação.
 
 ## Formação
+- Cursando Tecnologia em Análise e Desenvolvimento de Sistemas — Senac EAD
 - Cursando Técnico em Informática — Senac - Guaratinguetá
 
 ## Habilidades
@@ -11,7 +12,7 @@ Estudante de Tecnologia da Informação.
 - **Ferramentas:** Git, Obsidian
 
 ## Projetos
-- [Notas de TI](https://github.com/gr664826-rgb/notas-ti) — Anotações de estudo sobre hardware, sistemas operacionais e programação em Python
+- [Notas de TI](https://github.com/gr664826-rgb/notas-ti) — Anotações de estudo sobre hardware e sistemas operacionais 
 
 ## Contato
 - E-mail: gr664826@gmail.com
