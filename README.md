@@ -9,10 +9,10 @@ Estudante de Tecnologia da Informação.
 ## Habilidades
 - **Linguagens:** Python
 - **Sistemas:** Linux
-- **Ferramentas:** Git, Obsidian
+- **Ferramentas:** Git, Obsidian e Pycharm
 
 ## Projetos
-- [Notas de TI](https://github.com/gr664826-rgb/notas-ti) — Anotações de estudo sobre hardware e sistemas operacionais 
+- [Notas de TI](https://github.com/gr664826-rgb/notas-ti) — Anotações de estudo sobre hardware, sistemas operacionais e programação
 
 ## Contato
 - E-mail: gr664826@gmail.com
